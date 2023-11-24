@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659152596877",
+    "project_id": "formativa-9d53d",
+    "storage_bucket": "formativa-9d53d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659152596877:android:96f155f6e8a511ca9a17c4",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.formativa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyE-J0JFeJrtu8qujIPRrbHgNFzSsY-Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
